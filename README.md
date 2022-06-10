@@ -1,4 +1,4 @@
-# Laboratorni-Roboty
+# Laboratorna-Robota-1
 
 ТЗ-91 Станенко Владислав
 
